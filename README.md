@@ -1,1 +1,2 @@
-# workshop-parallel-jupyter
+# Workshop Parallel Jupyter
+
