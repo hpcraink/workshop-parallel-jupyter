@@ -1,0 +1,7 @@
+# This file exists to help consolidate names and email addresses
+# (e.g., when people accidentally commit with an incorrect or local
+# email address).
+# See https://github.com/open-mpi/ompi/blob/master/.mailmap for
+# a good explanation and examples.
+
+Philipp Köster <Philipp.Koester@hs-esslingen.de> <phkoit01@hs-esslingen.de>
