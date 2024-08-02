@@ -2,13 +2,13 @@
 
 # Workshop Parallel Jupyter
 
-Teilnehmer müssen diese Grundlagen bereits erledigt haben:
-* Funktionierender Benutzeraccount auf [bwUniCluster](https://wiki.bwhpc.de/e/Category:BwUniCluster_2.0), d.h.
-  * bwIDM-Entitlement 'bwUniCluster' Ihrer Heimatinstitution
-  * Account kreiert auf https://bwidm.scc.kit.edu
-  * One-Time Password (OTP) auf dieser Webseite unter Service->Meine Tokens eingerichtet
-  * Einmaliger SSH-Zugriff auf ```ssh IHR_ACCOUNT@bwunicluster.scc.kit.edu```
-  * Ausfüllen des obligatorischen Questionnaires.
-* Für spätere Übung: X11-Zugang, d.h.
-  * unter Windows ein putty mit X11-Forwarding
-  * oder eine WSL2 Installation mit X11, bspw. https://x410.dev/
+Participants must have already completed these basics:
+* Functioning user account on [bwUniCluster](https://wiki.bwhpc.de/e/Category:BwUniCluster_2.0), i.e.
+* bwIDM entitlement 'bwUniCluster' of your home institution
+* Account created on https://bwidm.scc.kit.edu
+* One-time password (OTP) set up on this website under Service->My Tokens
+* One-time SSH access to ```ssh YOUR_ACCOUNT@bwunicluster.scc.kit.edu```
+* Completing the mandatory questionnaire.
+* For later practice: X11 access, i.e.
+* under Windows a putty with X11 forwarding
+* or a WSL2 installation with X11, e.g. https://x410.dev/
