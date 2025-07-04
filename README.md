@@ -1,4 +1,4 @@
-<img src="https://www.bwhpc.de/assets/img/Logo_KIT_en.png" alt="bwHPC" width="200"> <img src="https://github.com/hpcraink/workshop-parallel-jupyter/blob/main/images/HochschuleEsslingen_Logo_RGB_DE.png" alt="Hochschule Esslingen" width="200">
+<img src="https://www.bwhpc.de/assets/img/Logo_KIT_en.png" alt="KIT" width="200"> <img src="https://github.com/hpcraink/workshop-parallel-jupyter/blob/main/images/HochschuleEsslingen_Logo_RGB_DE.png" alt="Hochschule Esslingen" width="200"> <img src="images/Konstanz_Logo.svg" alt="Universität Konstanz" width="200">
 
 # Workshop Parallel Jupyter
 
