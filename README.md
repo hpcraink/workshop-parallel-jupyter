@@ -3,7 +3,7 @@
 # Workshop Parallel Jupyter
 
 Participants must have already completed these basics:
-* Functioning user account on [bwUniCluster](https://wiki.bwhpc.de/e/Category:BwUniCluster_2.0), i.e.
+* Functioning user account on [bwUniCluster](https://wiki.bwhpc.de/e/BwUniCluster3.0), i.e.
   * bwIDM entitlement 'bwUniCluster' of your home institution
   * Account created on https://bwidm.scc.kit.edu
   * One-time password (OTP) set up on this website under Service->My Tokens
