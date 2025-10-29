@@ -1,0 +1,42 @@
+name: Test Environment
+
+on:
+    push:
+        paths:
+            - "pyproject.toml"
+            - "uv.lock"
+    pull_request:
+        paths:
+            - "pyproject.toml"
+            - "uv.lock"
+
+jobs:
+    test-environment:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Install uv
+              uses: astral-sh/setup-uv@v3
+              with:
+                  version: "latest"
+
+            - name: Set up Python
+              run: uv python install 3.8
+
+            - name: Install dependencies
+              run: uv sync
+
+            - name: Test notebook imports
+              run: uv run python scripts/test_environment.py
+
+            - name: Verify notebooks can be parsed
+              run: |
+                  echo "Checking that all notebooks can be parsed..."
+                  for notebook in *.ipynb; do
+                    echo "Parsing $notebook..."
+                    uv run python -c "import nbformat; nbformat.read('$notebook', as_version=4)"
+                  done
+                  echo "✅ All notebooks parsed successfully"

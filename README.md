@@ -2,6 +2,39 @@
 
 # Workshop Parallel Jupyter
 
+## Quick Start
+
+This workshop uses a modern Python environment managed with `uv`. To get started:
+
+1. **Install uv** (if not already installed):
+   ```bash
+   curl -LsSf https://astral.sh/uv/install.sh | sh
+   ```
+
+2. **Set up the environment**:
+   ```bash
+   uv sync
+   ```
+
+3. **Test the environment**:
+   ```bash
+   uv run python scripts/test_environment.py
+   ```
+
+4. **Start Jupyter**:
+   ```bash
+   uv run jupyter lab
+   ```
+
+## Environment Testing
+
+The environment is automatically tested via GitHub Actions whenever dependencies change. You can also test locally:
+
+- **Test all imports**: `uv run python scripts/test_environment.py`
+- **Verify notebooks**: All notebooks are automatically validated for syntax
+
+## Prerequisites
+
 Participants must have already completed these basics:
 * Functioning user account on [bwUniCluster](https://wiki.bwhpc.de/e/Category:BwUniCluster_2.0), i.e.
   * bwIDM entitlement 'bwUniCluster' of your home institution
