@@ -1,9 +1,16 @@
-<img src="https://www.bwhpc.de/assets/img/Logo_KIT_en.png" alt="KIT" width="200"> <img src="https://github.com/hpcraink/workshop-parallel-jupyter/blob/main/images/HochschuleEsslingen_Logo_RGB_DE.png" alt="Hochschule Esslingen" width="200"> <img src="images/Konstanz_Logo.svg" alt="Universität Konstanz" width="200">
+<img src="https://www.bwhpc.de/assets/img/Logo_KIT_en.png" alt="KIT" width="150"> <img src="https://github.com/hpcraink/workshop-parallel-jupyter/blob/main/images/HochschuleEsslingen_Logo_RGB_DE.png" alt="Hochschule Esslingen" width="200"> <img src="images/Konstanz_Logo.svg" alt="Universität Konstanz" width="200">
 
 # Workshop Parallel Jupyter
+Additional documentation can be found in the bwHPC Wiki: [Python](https://wiki.bwhpc.de/e/Python)
+
+## Prerequisites
+
+Participants must have already completed these basics:
+* Being [registered](https://wiki.bwhpc.de/e/Registration) on a bwHPC cluster. 
+* For later practice, X11 access is needed. To enable this, please follow the login instructions of your respective cluster.
+* If you are not using the bwUniCluster, you can skip the "1_Start" notebook where the JupyterLab job is set up. You can use [instructions of your specific cluster](https://wiki.bwhpc.de/e/Python) instead.
 
 ## Quick Start
-
 This workshop uses a modern Python environment managed with `uv`. To get started:
 
 1. **Install uv** (if not already installed):
@@ -30,18 +37,5 @@ This workshop uses a modern Python environment managed with `uv`. To get started
 
 The environment is automatically tested via GitHub Actions whenever dependencies change. You can also test locally:
 
-- **Test all imports**: `uv run python scripts/test_environment.py`
-- **Verify notebooks**: All notebooks are automatically validated for syntax
-
-## Prerequisites
-
-Participants must have already completed these basics:
-* Functioning user account on [bwUniCluster](https://wiki.bwhpc.de/e/BwUniCluster3.0), i.e.
-  * bwIDM entitlement 'bwUniCluster' of your home institution
-  * Account created on https://bwidm.scc.kit.edu
-  * One-time password (OTP) set up on this website under Service->My Tokens
-  * One-time SSH access to ```ssh YOUR_ACCOUNT@bwunicluster.scc.kit.edu```
-  * Completing the mandatory questionnaire.
-* For later practice: X11 access, i.e.
-  * under Windows a putty with X11 forwarding
-  * or a WSL2 installation with X11, e.g. https://x410.dev/
+- Test all imports: `uv run python scripts/test_environment.py`
+- Verify notebooks: All notebooks are automatically validated for syntax
