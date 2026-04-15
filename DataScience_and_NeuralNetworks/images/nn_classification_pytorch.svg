@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="cursor: move;"
+   width="1920"
+   height="919"
+   version="1.1"
+   id="svg161"
+   sodipodi:docname="nn_classification_pytorch.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="nn_classification_pytorch.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview161"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1310631"
+     inkscape:cx="875.72479"
+     inkscape:cy="472.56426"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g161" />
+  <g
+     id="g161">
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,301"
+       id="path1" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,334"
+       id="path2" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,367"
+       id="path3" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,400"
+       id="path4" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,433"
+       id="path5" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,466"
+       id="path6" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,499"
+       id="path7" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,532"
+       id="path8" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,565"
+       id="path9" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,217, 1071.3333333333333,598"
+       id="path10" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,301"
+       id="path11" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,334"
+       id="path12" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,367"
+       id="path13" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,400"
+       id="path14" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,433"
+       id="path15" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,466"
+       id="path16" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,499"
+       id="path17" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,532"
+       id="path18" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,565"
+       id="path19" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,248, 1071.3333333333333,598"
+       id="path20" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,301"
+       id="path21" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,334"
+       id="path22" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,367"
+       id="path23" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,400"
+       id="path24" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,433"
+       id="path25" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,466"
+       id="path26" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,499"
+       id="path27" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,532"
+       id="path28" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,565"
+       id="path29" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,279, 1071.3333333333333,598"
+       id="path30" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,301"
+       id="path31" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,334"
+       id="path32" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,367"
+       id="path33" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,400"
+       id="path34" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,433"
+       id="path35" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,466"
+       id="path36" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,499"
+       id="path37" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,532"
+       id="path38" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,565"
+       id="path39" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,310, 1071.3333333333333,598"
+       id="path40" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,301"
+       id="path41" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,334"
+       id="path42" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,367"
+       id="path43" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,400"
+       id="path44" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,433"
+       id="path45" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,466"
+       id="path46" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,499"
+       id="path47" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,532"
+       id="path48" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,565"
+       id="path49" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,341, 1071.3333333333333,598"
+       id="path50" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,301"
+       id="path51" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,334"
+       id="path52" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,367"
+       id="path53" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,400"
+       id="path54" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,433"
+       id="path55" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,466"
+       id="path56" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,499"
+       id="path57" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,532"
+       id="path58" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,565"
+       id="path59" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,372, 1071.3333333333333,598"
+       id="path60" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,301"
+       id="path61" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,334"
+       id="path62" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,367"
+       id="path63" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,400"
+       id="path64" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,433"
+       id="path65" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,466"
+       id="path66" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,499"
+       id="path67" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,532"
+       id="path68" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,565"
+       id="path69" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,403, 1071.3333333333333,598"
+       id="path70" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,301"
+       id="path71" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,334"
+       id="path72" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,367"
+       id="path73" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,400"
+       id="path74" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,433"
+       id="path75" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,466"
+       id="path76" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,499"
+       id="path77" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,532"
+       id="path78" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,565"
+       id="path79" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,434, 1071.3333333333333,598"
+       id="path80" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,301"
+       id="path81" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,334"
+       id="path82" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,367"
+       id="path83" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,400"
+       id="path84" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,433"
+       id="path85" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,466"
+       id="path86" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,499"
+       id="path87" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,532"
+       id="path88" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,565"
+       id="path89" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,465, 1071.3333333333333,598"
+       id="path90" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,301"
+       id="path91" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,334"
+       id="path92" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,367"
+       id="path93" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,400"
+       id="path94" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,433"
+       id="path95" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,466"
+       id="path96" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,499"
+       id="path97" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,532"
+       id="path98" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,565"
+       id="path99" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,496, 1071.3333333333333,598"
+       id="path100" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,301"
+       id="path101" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,334"
+       id="path102" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,367"
+       id="path103" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,400"
+       id="path104" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,433"
+       id="path105" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,466"
+       id="path106" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,499"
+       id="path107" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,532"
+       id="path108" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,565"
+       id="path109" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,527, 1071.3333333333333,598"
+       id="path110" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,301"
+       id="path111" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,334"
+       id="path112" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,367"
+       id="path113" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,400"
+       id="path114" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,433"
+       id="path115" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,466"
+       id="path116" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,499"
+       id="path117" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,532"
+       id="path118" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,565"
+       id="path119" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,558, 1071.3333333333333,598"
+       id="path120" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,301"
+       id="path121" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,334"
+       id="path122" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,367"
+       id="path123" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,400"
+       id="path124" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,433"
+       id="path125" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,466"
+       id="path126" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,499"
+       id="path127" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,532"
+       id="path128" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,565"
+       id="path129" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,589, 1071.3333333333333,598"
+       id="path130" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,301"
+       id="path131" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,334"
+       id="path132" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,367"
+       id="path133" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,400"
+       id="path134" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,433"
+       id="path135" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,466"
+       id="path136" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,499"
+       id="path137" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,532"
+       id="path138" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,565"
+       id="path139" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,620, 1071.3333333333333,598"
+       id="path140" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,301"
+       id="path141" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,334"
+       id="path142" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,367"
+       id="path143" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,400"
+       id="path144" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,433"
+       id="path145" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,466"
+       id="path146" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,499"
+       id="path147" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,532"
+       id="path148" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,565"
+       id="path149" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,651, 1071.3333333333333,598"
+       id="path150" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,301"
+       id="path151" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,334"
+       id="path152" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,367"
+       id="path153" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,400"
+       id="path154" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,433"
+       id="path155" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,466"
+       id="path156" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,499"
+       id="path157" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,532"
+       id="path158" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,565"
+       id="path159" />
+    <path
+       class="link"
+       style="stroke-width: 0.5px; stroke-opacity: 1; stroke: rgb(80, 80, 80); fill: none;"
+       marker-end=""
+       d="M777.3333333333334,682, 1071.3333333333333,598"
+       id="path160" />
+    <circle
+       r="10"
+       class="node"
+       id="0_0"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="217" />
+    <circle
+       r="10"
+       class="node"
+       id="0_1"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="248" />
+    <circle
+       r="10"
+       class="node"
+       id="0_2"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="279" />
+    <circle
+       r="10"
+       class="node"
+       id="0_3"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="310" />
+    <circle
+       r="10"
+       class="node"
+       id="0_4"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="341" />
+    <circle
+       r="10"
+       class="node"
+       id="0_5"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="372" />
+    <circle
+       r="10"
+       class="node"
+       id="0_6"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="403" />
+    <circle
+       r="10"
+       class="node"
+       id="0_7"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="434" />
+    <circle
+       r="10"
+       class="node"
+       id="0_8"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="465" />
+    <circle
+       r="10"
+       class="node"
+       id="0_9"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="496" />
+    <circle
+       r="10"
+       class="node"
+       id="0_10"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="527" />
+    <circle
+       r="10"
+       class="node"
+       id="0_11"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="558" />
+    <circle
+       r="10"
+       class="node"
+       id="0_12"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="589" />
+    <circle
+       r="10"
+       class="node"
+       id="0_13"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="620" />
+    <circle
+       r="10"
+       class="node"
+       id="0_14"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="651" />
+    <circle
+       r="10"
+       class="node"
+       id="0_15"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="777.3333333333334"
+       cy="682" />
+    <circle
+       r="10"
+       class="node"
+       id="1_0"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="301" />
+    <circle
+       r="10"
+       class="node"
+       id="1_1"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="334" />
+    <circle
+       r="10"
+       class="node"
+       id="1_2"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="367" />
+    <circle
+       r="10"
+       class="node"
+       id="1_3"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="400" />
+    <circle
+       r="10"
+       class="node"
+       id="1_4"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="433" />
+    <circle
+       r="10"
+       class="node"
+       id="1_5"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="466" />
+    <circle
+       r="10"
+       class="node"
+       id="1_6"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="499" />
+    <circle
+       r="10"
+       class="node"
+       id="1_7"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="532" />
+    <circle
+       r="10"
+       class="node"
+       id="1_8"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="565" />
+    <circle
+       r="10"
+       class="node"
+       id="1_9"
+       style="fill: rgb(128, 64, 64); stroke: rgb(51, 51, 51);"
+       cx="1071.3333333333333"
+       cy="598" />
+    <text
+       class="text"
+       dy="9.3333454"
+       style="font-size:26.6667px;fill:#000000"
+       x="706.08423"
+       y="713.15875"
+       id="text160"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="706.08423"
+         y="713.15875">Input Layer</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="706.08423"
+         y="746.49213">784 neurons</tspan></text>
+    <text
+       class="text"
+       dy="9.3333454"
+       style="font-size:26.6667px;fill:#000000"
+       x="981.5177"
+       y="712.27466"
+       id="text161"><tspan
+         sodipodi:role="line"
+         id="tspan162"
+         x="981.5177"
+         y="712.27466"
+         style="font-size:26.6667px;fill:#000000">Output Layer</tspan><tspan
+         sodipodi:role="line"
+         x="981.5177"
+         y="745.60803"
+         style="font-size:26.6667px;fill:#000000"
+         id="tspan3">10 neurons</tspan></text>
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.38563,224.45194 c -1.1321,-0.79295 -2.61846,-2.78223 -3.30302,-4.42062 -1.07013,-2.56117 -1.07013,-3.39659 0,-5.95777 0.68456,-1.63838 2.17092,-3.62766 3.30302,-4.42062 2.32704,-1.62991 7.12573,-1.89359 9.67101,-0.5314 2.00087,1.07083 4.37165,5.32546 4.37165,7.8454 0,6.87389 -8.46974,11.38843 -14.04266,7.48501 z"
+       id="path163" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.38563,255.39628 c -1.1321,-0.79295 -2.61846,-2.78223 -3.30302,-4.42062 -3.4313,-8.21225 7.53784,-15.75415 14.08639,-9.68517 4.2042,3.89633 4.2042,9.51624 0,13.41257 -2.7408,2.54008 -7.69216,2.85839 -10.78337,0.69322 z"
+       id="path164" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.38563,286.34062 c -1.1321,-0.79295 -2.61846,-2.78223 -3.30302,-4.42062 -1.07013,-2.56117 -1.07013,-3.39659 0,-5.95777 2.27382,-5.44202 7.52272,-7.32982 12.79684,-4.60247 2.55866,1.32314 4.54884,4.67749 4.54884,7.66686 0,2.51994 -2.37078,6.77457 -4.37165,7.84541 -2.54528,1.36219 -7.34397,1.09851 -9.67101,-0.53141 z"
+       id="path165" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 771.57094,316.52608 c -3.12637,-2.63066 -3.96662,-6.08146 -2.39607,-9.84031 2.63906,-6.31616 9.3292,-7.55372 14.2474,-2.63553 3.34159,3.3416 3.79943,6.15698 1.67068,10.27353 -2.56683,4.96372 -8.99588,6.0108 -13.52201,2.20231 z"
+       id="path166" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 771.24146,347.2397 c -2.93703,-3.1656 -3.56637,-6.02012 -2.10064,-9.5281 2.67259,-6.39641 9.33462,-7.66385 14.28145,-2.71702 3.34159,3.3416 3.79943,6.15698 1.67068,10.27353 -1.68157,3.25181 -3.81665,4.40293 -8.16649,4.40293 -2.60468,0 -3.9716,-0.5846 -5.685,-2.43134 z"
+       id="path167" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 775.22369,380.81904 c -2.46209,-0.39576 -6.16999,-4.09201 -6.65616,-6.63525 -0.5474,-2.86352 0.77625,-7.18138 2.74867,-8.96639 0.94214,-0.85263 3.32418,-1.76634 5.29341,-2.03047 3.21794,-0.43161 3.89622,-0.16444 6.69956,2.63889 3.63077,3.63077 4.00804,6.68984 1.36056,11.03203 -0.96357,1.58037 -1.85989,2.8734 -1.99181,2.8734 -0.13193,0 -1.4308,0.31424 -2.8864,0.69831 -1.45559,0.38407 -3.51112,0.55934 -4.56783,0.38948 z"
+       id="path168" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 775.22369,411.81789 c -2.4896,-0.47081 -6.1755,-4.17532 -6.65616,-6.68976 -1.08415,-5.67132 3.53462,-11.23999 9.32896,-11.24759 3.26057,-0.004 8.5318,5.09279 8.5318,8.24991 0,6.34065 -5.18713,10.82541 -11.2046,9.68744 z"
+       id="path169" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 773.60849,442.1827 c -2.46431,-1.09299 -3.95411,-3.09871 -5.21579,-7.02209 -0.8384,-2.60713 1.7375,-7.44275 4.81148,-9.03237 3.85052,-1.99118 8.08267,-1.09238 10.9605,2.32773 6.03704,7.17461 -1.9404,17.54806 -10.55619,13.72673 z"
+       id="path170" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 773.45707,473.04368 c -3.30929,-1.43952 -4.88809,-4.02164 -4.88809,-7.99446 0,-8.63413 10.0276,-12.26622 15.5957,-5.64891 3.67729,4.37021 2.65008,10.10804 -2.356,13.16025 -3.38423,2.06336 -4.56216,2.1315 -8.35161,0.48312 z"
+       id="path171" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.58228,503.61189 c -5.87284,-3.67679 -5.47059,-12.44442 0.71776,-15.64454 6.03967,-3.12323 12.68619,1.10863 12.68619,8.07734 0,7.17463 -7.37797,11.33986 -13.40395,7.5672 z"
+       id="path172" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.58228,534.55623 c -6.33478,-3.966 -5.10095,-13.70358 2.03475,-16.05857 5.56585,-1.8369 10.71774,1.64604 11.54371,7.80414 0.94718,7.06175 -7.38907,12.1294 -13.57846,8.25443 z"
+       id="path173" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.52706,565.46699 c -5.93575,-3.71411 -5.23499,-12.48527 1.24308,-15.55932 5.58083,-2.64828 11.52315,0.87113 12.3906,7.33847 0.39521,2.94647 0.0789,3.91009 -2.0642,6.2882 -3.30251,3.66468 -7.64271,4.3897 -11.56948,1.93265 z"
+       id="path174" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 773.439,597.21727 c -5.15328,-2.07575 -6.5568,-10.26452 -2.46125,-14.36006 2.76518,-2.76519 6.23185,-3.49553 9.70351,-2.04431 3.60722,1.50789 4.93567,3.32319 5.49755,7.51225 0.4262,3.17757 0.15122,3.87094 -2.64344,6.66561 -3.22198,3.22197 -6.06728,3.84944 -10.09637,2.22651 z"
+       id="path175" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 773.439,628.16161 c -1.06575,-0.42929 -2.52525,-1.6971 -3.24332,-2.81736 -4.03555,-6.29585 -0.36222,-13.97251 6.68593,-13.97251 4.39413,0 6.52548,1.14283 8.21134,4.40292 2.12875,4.11655 1.67091,6.93194 -1.67068,10.27354 -3.10592,3.10592 -5.99886,3.71834 -9.98327,2.11341 z"
+       id="path176" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.38563,658.55682 c -2.61348,-1.83055 -4.58478,-6.48716 -3.91561,-9.24947 0.94994,-3.92136 4.66322,-6.99127 8.45644,-6.99127 4.34984,0 6.48492,1.15111 8.16649,4.40292 2.12875,4.11655 1.67091,6.93194 -1.67068,10.27354 -3.41656,3.41655 -7.55476,4.00308 -11.03664,1.56428 z"
+       id="path177" />
+    <path
+       style="fill:#00aad4;stroke-width:0.884124"
+       d="m 772.38563,689.50116 c -2.65363,-1.85868 -4.49082,-6.29006 -3.89657,-9.3987 0.99931,-5.22754 8.64087,-8.56841 13.56758,-5.93171 2.00087,1.07083 4.37165,5.32546 4.37165,7.8454 0,6.87389 -8.46974,11.38843 -14.04266,7.48501 z"
+       id="path178" />
+  </g>
+  <defs
+     id="defs161">
+    <marker
+       id="arrow"
+       viewBox="0 -5 10 10"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto"
+       refX="40">
+      <path
+         d="M0,-5L10,0L0,5"
+         style="stroke: rgb(80, 80, 80); fill: none;"
+         id="path161" />
+    </marker>
+  </defs>
+</svg>
