@@ -10,7 +10,9 @@ def main():
     print("🔍 Testing notebook imports...")
 
     # Get all notebooks
-    notebooks = [f for f in Path(".").glob("*.ipynb") if not f.name.startswith("test_")]
+    notebooks = [f for f in Path(".").rglob("*.ipynb")
+                 if not f.name.startswith("test_")
+                 and ".ipynb_checkpoints" not in f.parts]
 
     # Extract and test imports
     all_imports = set()

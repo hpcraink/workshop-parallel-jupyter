@@ -8,7 +8,7 @@ Additional documentation can be found in the bwHPC Wiki: [Python](https://wiki.b
 Participants must have already completed these basics:
 * Being [registered](https://wiki.bwhpc.de/e/Registration) on a bwHPC cluster. 
 * For later practice, X11 access is needed. To enable this, please follow the login instructions of your respective cluster.
-* If you are not using the bwUniCluster, you can skip the "1_Start" notebook where the JupyterLab job is set up. You can use [instructions of your specific cluster](https://wiki.bwhpc.de/e/Python) instead.
+* If you are not using the bwUniCluster, you can skip the "01_Getting_Started" notebook where the JupyterLab job is set up. You can use [instructions of your specific cluster](https://wiki.bwhpc.de/e/Python) instead.
 
 ## Quick Start
 This workshop uses a modern Python environment managed with `uv`. To get started:

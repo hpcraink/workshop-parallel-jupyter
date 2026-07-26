@@ -35,7 +35,7 @@ jobs:
             - name: Verify notebooks can be parsed
               run: |
                   echo "Checking that all notebooks can be parsed..."
-                  for notebook in *.ipynb; do
+                  for notebook in $(find . -name "*.ipynb" -not -path "*/.ipynb_checkpoints/*"); do
                     echo "Parsing $notebook..."
                     uv run python -c "import nbformat; nbformat.read('$notebook', as_version=4)"
                   done
