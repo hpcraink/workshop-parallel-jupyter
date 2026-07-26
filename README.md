@@ -39,3 +39,4 @@ The environment is automatically tested via GitHub Actions whenever dependencies
 
 - Test all imports: `uv run python scripts/test_environment.py`
 - Verify notebooks: All notebooks are automatically validated for syntax
+
