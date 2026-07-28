@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='545' viewBox='0 0 1000 545'>
+<rect width='1000' height='545' fill='#ffffff'/>
+<defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<text x='219' y='89.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>TOEFL Score</text>
+<line x1='267' y1='84.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='117.80000000000001' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='134.8' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>1</tspan></text>
+<circle cx='250' cy='84.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='219' y='141.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>University Rating</text>
+<line x1='267' y1='136.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='154.2' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='171.2' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>2</tspan></text>
+<circle cx='250' cy='136.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='219' y='193.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>Research</text>
+<line x1='267' y1='188.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='190.6' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='207.6' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>3</tspan></text>
+<circle cx='250' cy='188.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='219' y='245.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>GRE Score</text>
+<line x1='267' y1='240.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='227.0' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='244.0' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>4</tspan></text>
+<circle cx='250' cy='240.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='219' y='297.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>CGPA</text>
+<line x1='267' y1='292.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='263.4' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='280.4' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>5</tspan></text>
+<circle cx='250' cy='292.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='219' y='349.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>SOP</text>
+<line x1='267' y1='344.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='299.8' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='316.8' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>6</tspan></text>
+<circle cx='250' cy='344.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='219' y='401.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>LOR</text>
+<line x1='267' y1='396.0' x2='564' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='340.1' y='336.2' width='32' height='22' rx='4' fill='#ffffff'/>
+<text x='356.1' y='353.2' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>w<tspan font-size='10' dy='3'>7</tspan></text>
+<circle cx='250' cy='396.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<circle cx='620' cy='240' r='52' fill='#e2e8f0' stroke='#475569' stroke-width='2'/>
+<text x='620' y='228' font-family='Helvetica,Arial,sans-serif' font-size='20' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>&#931; + b</text>
+<text x='620' y='254' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>ReLU</text>
+<line x1='672' y1='240' x2='770' y2='240' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<text x='721' y='228' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='italic'>a</text>
+<text x='780' y='245' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>to the next layer</text>
+<text x='500.0' y='452' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>z  =  w₁x₁ + w₂x₂ + … + w₇x₇ + b</text>
+<text x='500.0' y='484' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>a  =  ReLU(z)  =  max(0, z)</text>
+<text x='500.0' y='520' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='italic'>the weights w and the bias b are the parameters the network learns</text>
+</svg>

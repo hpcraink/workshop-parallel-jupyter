@@ -1,0 +1,151 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1020' height='560' viewBox='0 0 1020 560'>
+<rect width='1020' height='560' fill='#ffffff'/>
+<defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<line x1='317' y1='74.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='74.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='74.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='74.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='74.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='74.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='74.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='136.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='198.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='260.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='322.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='384.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='317' y1='446.0' x2='483' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='74.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='136.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='198.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='260.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='322.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='384.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='74.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='136.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='198.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='322.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='384.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='517' y1='446.0' x2='683' y2='446.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='74.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='136.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='198.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='260.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='322.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='384.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<line x1='717' y1='446.0' x2='883' y2='260.0' stroke='#cbd5e1' stroke-width='1'/>
+<text x='267' y='79.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>TOEFL Score</text>
+<circle cx='300' cy='74.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='267' y='141.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>University Rating</text>
+<circle cx='300' cy='136.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='267' y='203.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>Research</text>
+<circle cx='300' cy='198.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='267' y='265.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>GRE Score</text>
+<circle cx='300' cy='260.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='267' y='327.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>CGPA</text>
+<circle cx='300' cy='322.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='267' y='389.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>SOP</text>
+<circle cx='300' cy='384.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='267' y='451.0' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='end' fill='#1f2937' font-weight='normal' font-style='normal'>LOR</text>
+<circle cx='300' cy='446.0' r='17' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='74.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='136.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='198.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='260.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='322.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='384.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='500' cy='446.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='74.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='136.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='198.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='260.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='322.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='384.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='700' cy='446.0' r='17' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<circle cx='900' cy='260.0' r='20' fill='#fde68a' stroke='#475569' stroke-width='1.5'/>
+<text x='933' y='258.0' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='start' fill='#1f2937' font-weight='bold' font-style='normal'>Admitted</text>
+<text x='933' y='277.0' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>(True / False)</text>
+<line x1='300' y1='480' x2='300' y2='496' stroke='#6b7280' stroke-width='1'/>
+<text x='300' y='516' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>Input Layer</text>
+<line x1='500' y1='480' x2='500' y2='496' stroke='#6b7280' stroke-width='1'/>
+<text x='500' y='516' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>Hidden Layer 1</text>
+<line x1='700' y1='480' x2='700' y2='496' stroke='#6b7280' stroke-width='1'/>
+<text x='700' y='516' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>Hidden Layer 2</text>
+<line x1='900' y1='480' x2='900' y2='496' stroke='#6b7280' stroke-width='1'/>
+<text x='900' y='516' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>Output Layer</text>
+<text x='300' y='540' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='normal'>7 features</text>
+<text x='600.0' y='540' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='normal'>7 neurons each</text>
+<text x='900' y='540' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='normal'>1 neuron</text>
+</svg>

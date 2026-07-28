@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='470' viewBox='0 0 900 470'>
+<rect width='900' height='470' fill='#ffffff'/>
+<defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<text x='450.0' y='36' font-family='Helvetica,Arial,sans-serif' font-size='16' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>One epoch = the whole training set, processed batch by batch</text>
+<rect x='78' y='88' width='214' height='122' rx='8' fill='#f8fafc' stroke='#2563eb' stroke-width='2'/>
+<text x='185.0' y='78' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>Batch 1</text>
+<rect x='90' y='100' width='190' height='19' fill='#dbeafe' stroke='#cbd5e1' stroke-width='1'/>
+<text x='100' y='115' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='90' y='122' width='190' height='19' fill='#eff6ff' stroke='#cbd5e1' stroke-width='1'/>
+<text x='100' y='137' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='90' y='144' width='190' height='19' fill='#dbeafe' stroke='#cbd5e1' stroke-width='1'/>
+<text x='100' y='159' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='90' y='166' width='190' height='19' fill='#eff6ff' stroke='#cbd5e1' stroke-width='1'/>
+<text x='100' y='181' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<text x='185.0' y='208' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='italic'>32 rows</text>
+<line x1='294' y1='148' x2='324' y2='148' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='308' y='88' width='214' height='122' rx='8' fill='#f8fafc' stroke='#2563eb' stroke-width='2'/>
+<text x='415.0' y='78' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>Batch 2</text>
+<rect x='320' y='100' width='190' height='19' fill='#dbeafe' stroke='#cbd5e1' stroke-width='1'/>
+<text x='330' y='115' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='320' y='122' width='190' height='19' fill='#eff6ff' stroke='#cbd5e1' stroke-width='1'/>
+<text x='330' y='137' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='320' y='144' width='190' height='19' fill='#dbeafe' stroke='#cbd5e1' stroke-width='1'/>
+<text x='330' y='159' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='320' y='166' width='190' height='19' fill='#eff6ff' stroke='#cbd5e1' stroke-width='1'/>
+<text x='330' y='181' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<text x='415.0' y='208' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='italic'>32 rows</text>
+<line x1='524' y1='148' x2='554' y2='148' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<rect x='538' y='88' width='214' height='122' rx='8' fill='#f8fafc' stroke='#2563eb' stroke-width='2'/>
+<text x='645.0' y='78' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>Batch 3</text>
+<rect x='550' y='100' width='190' height='19' fill='#dbeafe' stroke='#cbd5e1' stroke-width='1'/>
+<text x='560' y='115' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='550' y='122' width='190' height='19' fill='#eff6ff' stroke='#cbd5e1' stroke-width='1'/>
+<text x='560' y='137' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='550' y='144' width='190' height='19' fill='#dbeafe' stroke='#cbd5e1' stroke-width='1'/>
+<text x='560' y='159' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<rect x='550' y='166' width='190' height='19' fill='#eff6ff' stroke='#cbd5e1' stroke-width='1'/>
+<text x='560' y='181' font-family='Helvetica,Arial,sans-serif' font-size='11' text-anchor='start' fill='#6b7280' font-weight='normal' font-style='normal'>one applicant (7 features)</text>
+<text x='645.0' y='208' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='italic'>32 rows</text>
+<text x='790' y='148' font-family='Helvetica,Arial,sans-serif' font-size='26' text-anchor='middle' fill='#6b7280' font-weight='bold' font-style='normal'>…</text>
+<text x='450.0' y='260' font-family='Helvetica,Arial,sans-serif' font-size='20' text-anchor='middle' fill='#2563eb' font-weight='bold' font-style='normal'>batch_size = 32</text>
+<text x='450.0' y='300' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='normal' font-style='normal'>The model looks at 32 rows, computes the error, and updates its weights once.</text>
+<text x='450.0' y='324' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='normal' font-style='normal'>Then it moves on to the next 32 rows.</text>
+<rect x='150' y='352' width='600' height='84' rx='8' fill='#f8fafc' stroke='#cbd5e1'/>
+<text x='450.0' y='378' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>400 training rows  ÷  batch_size 32  =  13 weight updates per epoch</text>
+<text x='450.0' y='404' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold' font-style='normal'>100 epochs  ×  13  =  1300 updates in total</text>
+<text x='450.0' y='426' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280' font-weight='normal' font-style='italic'>smaller batches → more updates, slower;  larger → fewer, faster but coarser</text>
+</svg>
