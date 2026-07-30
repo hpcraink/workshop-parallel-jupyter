@@ -1,0 +1,138 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1280' height='410' viewBox='0 0 1280 410'>
+<rect width='1280' height='410' fill='#ffffff'/>
+<defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<image x='30' y='90' width='120' height='120' xlink:href='data:image/jpeg;base64,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'/>
+<rect x='30' y='90' width='120' height='120' fill='none' stroke='#475569' stroke-width='1.4'/>
+<text x='90' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Input image</text>
+<text x='90' y='332' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>128 × 128 × 3</text>
+<line x1='165' y1='150' x2='240' y2='150' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<text x='202.5' y='136' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#1f2937' font-style='italic'>Convolution</text>
+<rect x='282' y='73' width='100' height='100' fill='#dbeafe' stroke='#475569' stroke-width='1.4' rx='3'/>
+<rect x='273' y='82' width='100' height='100' fill='#dbeafe' stroke='#475569' stroke-width='1.4' rx='3'/>
+<rect x='264' y='91' width='100' height='100' fill='#dbeafe' stroke='#475569' stroke-width='1.4' rx='3'/>
+<rect x='255' y='100' width='100' height='100' fill='#dbeafe' stroke='#475569' stroke-width='1.4' rx='3'/>
+<text x='322' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Feature maps</text>
+<text x='322' y='332' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>many, same size</text>
+<line x1='400' y1='150' x2='475' y2='150' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<text x='437.5' y='136' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#1f2937' font-style='italic'>Max pooling</text>
+<rect x='517' y='93' width='60' height='60' fill='#e2e8f0' stroke='#475569' stroke-width='1.4' rx='3'/>
+<rect x='508' y='102' width='60' height='60' fill='#e2e8f0' stroke='#475569' stroke-width='1.4' rx='3'/>
+<rect x='499' y='111' width='60' height='60' fill='#e2e8f0' stroke='#475569' stroke-width='1.4' rx='3'/>
+<rect x='490' y='120' width='60' height='60' fill='#e2e8f0' stroke='#475569' stroke-width='1.4' rx='3'/>
+<text x='537' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Pooled maps</text>
+<text x='537' y='332' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>same number, smaller</text>
+<line x1='595' y1='150' x2='670' y2='150' stroke='#475569' stroke-width='1.6' marker-end='url(#arrow)'/>
+<text x='632.5' y='136' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#1f2937' font-style='italic'>Flattening</text>
+<rect x='685' y='75' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='90' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='105' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='120' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='135' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='150' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='165' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='180' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='195' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<rect x='685' y='210' width='15' height='15' fill='#e2e8f0' stroke='#475569' stroke-width='1'/>
+<text x='692' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Flattened</text>
+<text x='692' y='332' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>one long vector</text>
+<line x1='700' y1='82.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='82.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='82.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='82.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='82.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='97.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='97.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='97.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='97.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='97.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='112.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='112.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='112.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='112.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='112.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='127.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='127.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='127.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='127.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='127.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='142.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='142.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='142.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='142.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='142.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='157.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='157.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='157.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='157.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='157.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='172.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='172.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='172.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='172.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='172.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='187.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='187.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='187.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='187.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='187.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='202.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='202.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='202.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='202.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='202.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='217.5' x2='795' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='217.5' x2='795' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='217.5' x2='795' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='217.5' x2='795' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='700' y1='217.5' x2='795' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='66' x2='915' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='66' x2='915' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='66' x2='915' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='66' x2='915' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='66' x2='915' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='108' x2='915' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='108' x2='915' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='108' x2='915' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='108' x2='915' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='108' x2='915' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='150' x2='915' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='150' x2='915' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='150' x2='915' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='150' x2='915' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='150' x2='915' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='192' x2='915' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='192' x2='915' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='192' x2='915' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='192' x2='915' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='192' x2='915' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='234' x2='915' y2='66' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='234' x2='915' y2='108' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='234' x2='915' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='234' x2='915' y2='192' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='825' y1='234' x2='915' y2='234' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='945' y1='66' x2='1032' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='945' y1='108' x2='1032' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='945' y1='150' x2='1032' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='945' y1='192' x2='1032' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<line x1='945' y1='234' x2='1032' y2='150' stroke='#cbd5e1' stroke-width='0.7'/>
+<circle cx='810' cy='66' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='810' cy='108' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='810' cy='150' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='810' cy='192' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='810' cy='234' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='930' cy='66' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='930' cy='108' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='930' cy='150' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='930' cy='192' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='930' cy='234' r='15' fill='#e2e8f0' stroke='#475569' stroke-width='1.4'/>
+<circle cx='1050' cy='150' r='18' fill='#fde68a' stroke='#475569' stroke-width='1.4'/>
+<text x='1080' y='148' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='start' fill='#1f2937' font-weight='bold'>Cat or Dog</text>
+<text x='1080' y='167' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='start' fill='#6b7280'>(one probability)</text>
+<text x='810' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Hidden Layer 1</text>
+<text x='930' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Hidden Layer 2</text>
+<text x='1050' y='312' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Output</text>
+<line x1='770' y1='368' x2='1090' y2='368' stroke='#9ca3af' stroke-width='1'/>
+<line x1='770' y1='362' x2='770' y2='368' stroke='#9ca3af' stroke-width='1'/>
+<line x1='1090' y1='362' x2='1090' y2='368' stroke='#9ca3af' stroke-width='1'/>
+<text x='930' y='388' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280'>an ordinary neural network, exactly as in the previous notebooks</text>
+</svg>
