@@ -1,0 +1,64 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='660' height='420' viewBox='0 0 660 420'>
+<rect width='660' height='420' fill='#ffffff'/>
+<defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<line x1='80' y1='350.0' x2='620' y2='350.0' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='308.6' x2='620' y2='308.6' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='267.1' x2='620' y2='267.1' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='225.7' x2='620' y2='225.7' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='184.3' x2='620' y2='184.3' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='142.9' x2='620' y2='142.9' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='101.4' x2='620' y2='101.4' stroke='#eef2f7' stroke-width='1'/>
+<line x1='80' y1='60.0' x2='620' y2='60.0' stroke='#eef2f7' stroke-width='1'/>
+<circle cx='410.8' cy='142.8' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='543.0' cy='165.2' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='484.0' cy='125.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='216.5' cy='258.1' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='252.9' cy='263.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='531.5' cy='74.5' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='109.6' cy='285.9' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='506.1' cy='171.4' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='494.4' cy='142.1' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='334.4' cy='196.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='254.3' cy='250.5' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='242.3' cy='232.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='230.9' cy='257.1' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='323.3' cy='198.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='352.2' cy='165.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='376.0' cy='212.2' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='590.8' cy='97.9' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='492.2' cy='157.5' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='409.4' cy='176.5' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='587.6' cy='136.7' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='211.6' cy='279.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='184.9' cy='280.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='404.7' cy='157.7' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='128.4' cy='267.7' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='124.3' cy='335.9' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='357.2' cy='223.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='333.6' cy='194.5' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='552.7' cy='173.1' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='412.8' cy='191.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='356.9' cy='204.7' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='348.5' cy='171.8' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='227.3' cy='238.2' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='112.7' cy='313.9' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='200.5' cy='278.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='443.3' cy='172.4' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='204.5' cy='225.4' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='286.6' cy='243.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='108.8' cy='314.9' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='510.4' cy='127.8' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='182.1' cy='279.1' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='237.1' cy='258.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='534.8' cy='157.0' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='354.8' cy='203.3' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='518.7' cy='145.8' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<circle cx='417.9' cy='144.9' r='4.5' fill='#94a3b8' fill-opacity='0.85' stroke='#64748b' stroke-width='0.8'/>
+<line x1='80.0' y1='311.2' x2='620.0' y2='97.2' stroke='#2563eb' stroke-width='3'/>
+<line x1='80' y1='350' x2='620' y2='350' stroke='#6b7280' stroke-width='1.2'/>
+<line x1='80' y1='60' x2='80' y2='350' stroke='#6b7280' stroke-width='1.2'/>
+<text x='350.0' y='30' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937' font-weight='bold'>Linear regression</text>
+<text x='350.0' y='400' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>one straight line through the cloud of points</text>
+<text x='350.0' y='378' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280'>feature x</text>
+<text x='30' y='205.0' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280' transform='rotate(-90 30 205.0)'>label y</text>
+</svg>
