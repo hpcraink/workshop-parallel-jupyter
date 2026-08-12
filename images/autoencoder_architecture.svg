@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='380' viewBox='0 0 900 380'>
+<rect width='900' height='380' fill='#ffffff'/>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<rect x='40' y='105' width='140' height='140' fill='#e2e8f0' stroke='#475569' stroke-width='1.5' rx='4'/>
+<text x='110.0' y='267' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Input</text>
+<text x='110.0' y='285' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>28 × 28 = 784 values</text>
+<line x1='190' y1='175' x2='215' y2='175' stroke='#475569' stroke-width='2' marker-end='url(#ar)'/>
+<polygon points='220,105.0 390,145.0 390,205.0 220,245.0' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='305.0' y='180' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#1f2937' font-weight='bold'>Encoder</text>
+<line x1='400' y1='175' x2='425' y2='175' stroke='#475569' stroke-width='2' marker-end='url(#ar)'/>
+<rect x='430' y='145' width='44' height='60' fill='#fde68a' stroke='#475569' stroke-width='1.5' rx='4'/>
+<text x='452.0' y='227' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Bottleneck</text>
+<text x='452.0' y='245' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>392 values</text>
+<line x1='484' y1='175' x2='509' y2='175' stroke='#475569' stroke-width='2' marker-end='url(#ar)'/>
+<polygon points='514,145.0 684,105.0 684,245.0 514,205.0' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='599.0' y='180' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#1f2937' font-weight='bold'>Decoder</text>
+<line x1='694' y1='175' x2='719' y2='175' stroke='#475569' stroke-width='2' marker-end='url(#ar)'/>
+<rect x='724' y='105' width='140' height='140' fill='#e2e8f0' stroke='#475569' stroke-width='1.5' rx='4'/>
+<text x='794.0' y='267' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937' font-weight='bold'>Output</text>
+<text x='794.0' y='285' font-family='Helvetica,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#6b7280'>28 × 28 = 784 values</text>
+<text x='450.0' y='32' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937' font-weight='bold'>An autoencoder</text>
+<text x='450.0' y='350' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>squeeze the data down, then rebuild it — the narrow middle forces the network to keep only what matters</text>
+</svg>
