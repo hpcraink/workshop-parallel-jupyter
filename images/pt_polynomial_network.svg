@@ -1,0 +1,33 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='400' viewBox='0 0 760 400'>
+<rect width='760' height='400' fill='#ffffff'/>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#475569'/></marker></defs>
+<line x1='167' y1='190' x2='283' y2='85' stroke='#cbd5e1' stroke-width='1.4'/>
+<line x1='337' y1='85' x2='583' y2='190' stroke='#cbd5e1' stroke-width='1.4'/>
+<circle cx='310' cy='85' r='27' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='310' y='90' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937'>x⁰ = 1</text>
+<text x='460.0' y='131.5' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>a</text>
+<line x1='167' y1='190' x2='283' y2='155' stroke='#cbd5e1' stroke-width='1.4'/>
+<line x1='337' y1='155' x2='583' y2='190' stroke='#cbd5e1' stroke-width='1.4'/>
+<circle cx='310' cy='155' r='27' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='310' y='160' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937'>x¹</text>
+<text x='460.0' y='166.5' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>b</text>
+<line x1='167' y1='190' x2='283' y2='225' stroke='#cbd5e1' stroke-width='1.4'/>
+<line x1='337' y1='225' x2='583' y2='190' stroke='#cbd5e1' stroke-width='1.4'/>
+<circle cx='310' cy='225' r='27' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='310' y='230' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937'>x²</text>
+<text x='460.0' y='201.5' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>c</text>
+<line x1='167' y1='190' x2='283' y2='295' stroke='#cbd5e1' stroke-width='1.4'/>
+<line x1='337' y1='295' x2='583' y2='190' stroke='#cbd5e1' stroke-width='1.4'/>
+<circle cx='310' cy='295' r='27' fill='#dbeafe' stroke='#475569' stroke-width='1.5'/>
+<text x='310' y='300' font-family='Helvetica,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#1f2937'>x³</text>
+<text x='460.0' y='236.5' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>d</text>
+<circle cx='140' cy='190' r='27' fill='#e2e8f0' stroke='#475569' stroke-width='1.5'/>
+<text x='140' y='196' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937'>x</text>
+<circle cx='610' cy='190' r='30' fill='#fde68a' stroke='#475569' stroke-width='1.5'/>
+<text x='610' y='196' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937'>ŷ</text>
+<text x='140' y='242' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280'>input</text>
+<text x='310' y='347' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280'>powers of x</text>
+<text x='650' y='242' font-family='Helvetica,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#6b7280'>prediction</text>
+<text x='380.0' y='32' font-family='Helvetica,Arial,sans-serif' font-size='17' text-anchor='middle' fill='#1f2937' font-weight='bold'>A polynomial, drawn as a network</text>
+<text x='380.0' y='372' font-family='Helvetica,Arial,sans-serif' font-size='15' text-anchor='middle' fill='#2563eb' font-weight='bold'>ŷ = a + b·x + c·x² + d·x³ — four weights, no hidden layer</text>
+</svg>
