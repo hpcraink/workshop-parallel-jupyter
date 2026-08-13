@@ -5,10 +5,12 @@ on:
         paths:
             - "pyproject.toml"
             - "uv.lock"
+            - "**/*.ipynb"
     pull_request:
         paths:
             - "pyproject.toml"
             - "uv.lock"
+            - "**/*.ipynb"
 
 jobs:
     test-environment:
@@ -22,9 +24,11 @@ jobs:
               uses: astral-sh/setup-uv@v3
               with:
                   version: "latest"
+                  enable-cache: true
+                  cache-dependency-glob: "uv.lock"
 
             - name: Set up Python
-              run: uv python install 3.8
+              run: uv python install 3.11
 
             - name: Install dependencies
               run: uv sync
