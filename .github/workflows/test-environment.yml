@@ -6,11 +6,13 @@ on:
             - "pyproject.toml"
             - "uv.lock"
             - "**/*.ipynb"
+            - ".github/workflows/test-environment.yml"
     pull_request:
         paths:
             - "pyproject.toml"
             - "uv.lock"
             - "**/*.ipynb"
+            - ".github/workflows/test-environment.yml"
 
 jobs:
     test-environment:
