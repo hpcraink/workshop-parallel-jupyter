@@ -10,9 +10,12 @@ def main():
     print("🔍 Testing notebook imports...")
 
     # Get all notebooks
+    # Skip hidden directories (.venv, .git, .ipynb_checkpoints) and anything
+    # inside an installed package -- some ship example notebooks of their own.
     notebooks = [f for f in Path(".").rglob("*.ipynb")
                  if not f.name.startswith("test_")
-                 and ".ipynb_checkpoints" not in f.parts]
+                 and not any(part.startswith(".") for part in f.parts)
+                 and "site-packages" not in f.parts]
 
     # Extract and test imports
     all_imports = set()
