@@ -68,11 +68,18 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 **3. Create the environment**
 
 ```bash
-uv sync
+uv sync --all-extras
 ```
 
 This reads `pyproject.toml` and `uv.lock` and constructs a `.venv` directory
 containing every package required by the notebooks.
+
+The two heavy chapters are declared as optional extras — `dl` for TensorFlow and
+PyTorch, and `dask` plus `mpi` for the Dask cluster — so that a subset can be
+installed when the full environment is not wanted. `uv sync --all-extras` installs
+everything and is the right choice for working through the workshop; a Dask job that
+builds an environment on each compute node uses only `--extra dask --extra mpi`, and
+saves several GB per node by leaving the deep learning frameworks out.
 
 **4. Register the environment as a Jupyter kernel**
 

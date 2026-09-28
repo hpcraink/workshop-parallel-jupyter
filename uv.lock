@@ -4425,18 +4425,11 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "bokeh" },
-    { name = "dask", extra = ["complete"] },
-    { name = "dask-jobqueue" },
-    { name = "dask-ml" },
-    { name = "dask-mpi" },
-    { name = "distributed" },
-    { name = "graphviz" },
     { name = "hvplot" },
     { name = "ipykernel" },
     { name = "jupyterlab" },
     { name = "kaleido" },
     { name = "matplotlib" },
-    { name = "mpi4py" },
     { name = "nltk" },
     { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
     { name = "numpy", version = "2.5.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
@@ -4446,9 +4439,24 @@ dependencies = [
     { name = "pyarrow" },
     { name = "scikit-learn" },
     { name = "seaborn" },
+]
+
+[package.optional-dependencies]
+dask = [
+    { name = "dask", extra = ["complete"] },
+    { name = "dask-jobqueue" },
+    { name = "dask-ml" },
+    { name = "distributed" },
+    { name = "graphviz" },
+]
+dl = [
     { name = "tensorboard" },
     { name = "tensorflow" },
     { name = "torch" },
+]
+mpi = [
+    { name = "dask-mpi" },
+    { name = "mpi4py" },
 ]
 
 [package.dev-dependencies]
@@ -4462,18 +4470,18 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "bokeh", specifier = ">=3.5" },
-    { name = "dask", extras = ["complete"], specifier = ">=2024.8" },
-    { name = "dask-jobqueue", specifier = ">=0.9" },
-    { name = "dask-ml", specifier = ">=2024.4" },
-    { name = "dask-mpi", specifier = ">=2022.4" },
-    { name = "distributed", specifier = ">=2024.8" },
-    { name = "graphviz", specifier = ">=0.20" },
+    { name = "dask", extras = ["complete"], marker = "extra == 'dask'", specifier = ">=2024.8" },
+    { name = "dask-jobqueue", marker = "extra == 'dask'", specifier = ">=0.9" },
+    { name = "dask-ml", marker = "extra == 'dask'", specifier = ">=2024.4" },
+    { name = "dask-mpi", marker = "extra == 'mpi'", specifier = ">=2022.4" },
+    { name = "distributed", marker = "extra == 'dask'", specifier = ">=2024.8" },
+    { name = "graphviz", marker = "extra == 'dask'", specifier = ">=0.20" },
     { name = "hvplot", specifier = ">=0.11" },
     { name = "ipykernel", specifier = ">=6.29" },
     { name = "jupyterlab", specifier = ">=4.3" },
     { name = "kaleido", specifier = ">=0.2" },
     { name = "matplotlib", specifier = ">=3.9" },
-    { name = "mpi4py", specifier = ">=3.1" },
+    { name = "mpi4py", marker = "extra == 'mpi'", specifier = ">=3.1" },
     { name = "nltk", specifier = ">=3.9" },
     { name = "numpy", specifier = ">=2.0" },
     { name = "palmerpenguins", specifier = ">=0.1.4" },
@@ -4482,10 +4490,11 @@ requires-dist = [
     { name = "pyarrow", specifier = ">=17.0" },
     { name = "scikit-learn", specifier = ">=1.5" },
     { name = "seaborn", specifier = ">=0.13" },
-    { name = "tensorboard", specifier = ">=2.18" },
-    { name = "tensorflow", specifier = ">=2.18" },
-    { name = "torch", specifier = "==2.10.0" },
+    { name = "tensorboard", marker = "extra == 'dl'", specifier = ">=2.18" },
+    { name = "tensorflow", marker = "extra == 'dl'", specifier = ">=2.18" },
+    { name = "torch", marker = "extra == 'dl'", specifier = "==2.10.0" },
 ]
+provides-extras = ["dl", "dask", "mpi"]
 
 [package.metadata.requires-dev]
 dev = [

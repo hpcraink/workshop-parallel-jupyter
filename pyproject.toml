@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Workshop: data science and parallel computing with Python in Jupyter"
 readme = "README.md"
 requires-python = ">=3.11"
+
+# Needed by chapters 01-07. Small enough to install anywhere.
 dependencies = [
     "ipykernel>=6.29",
     "jupyterlab>=4.3",
@@ -19,16 +21,28 @@ dependencies = [
     "kaleido>=0.2",
     "palmerpenguins>=0.1.4",
     "nltk>=3.9",
+]
+
+# The two heavy chapters are optional, so that a Dask job does not have to copy
+# several GB of TensorFlow and PyTorch onto every compute node it reserves.
+#   everything:        uv sync --all-extras
+#   09_Dask on a node: uv sync --extra dask --extra mpi
+[project.optional-dependencies]
+dl = [
     "tensorflow>=2.18",
     "tensorboard>=2.18",
     "torch==2.10.0",
+]
+dask = [
     "dask[complete]>=2024.8",
     "distributed>=2024.8",
     "dask-jobqueue>=0.9",
     "dask-ml>=2024.4",
+    "graphviz>=0.20",
+]
+mpi = [
     "dask-mpi>=2022.4",
     "mpi4py>=3.1",
-    "graphviz>=0.20",
 ]
 
 [dependency-groups]

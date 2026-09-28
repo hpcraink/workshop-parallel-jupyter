@@ -33,7 +33,7 @@ jobs:
               run: uv python install 3.11
 
             - name: Install dependencies
-              run: uv sync
+              run: uv sync --all-extras
 
             - name: Test notebook imports
               run: uv run python scripts/test_environment.py
